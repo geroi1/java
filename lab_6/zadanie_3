@@ -19,8 +19,4 @@ public class zadanie3 {
         System.out.println("Стоимость кредита равна " + (int)(totalPayment * 100) / 100.0 + " руб.");
     }
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
+
